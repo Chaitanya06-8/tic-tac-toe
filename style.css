@@ -22,6 +22,7 @@ nav ul{
 display: flex;
 justify-content: center;
 margin-top: 50px;
+flex-direction:column-reverse;
 }
 .container{
 display: grid;
