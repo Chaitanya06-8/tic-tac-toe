@@ -9,7 +9,7 @@ nav{
     height: 60px;
     display: flex;
     align-items: center;
-    padding: 12;
+    padding:12px;
 
 }
 
@@ -21,6 +21,7 @@ nav ul{
 
 display: flex;
 justify-content: center;
+align-items: center;
 margin-top: 50px;
 flex-direction:column-reverse;
 }
